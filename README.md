@@ -150,3 +150,5 @@ transparent/IOR geometry.
 ![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_RAYviz.jpg)
 
 
+# Some more example images.
+![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_end_gallery.jpg)
