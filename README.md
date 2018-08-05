@@ -72,21 +72,21 @@ ______________________________________________________
 ![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_aray_node_menus.jpg)
 It is subdivided in 3 main Tabs:
 
-#### Aray Core:
+- #### ARay Core:
 Will give you the ability to change the number of samples to use for the Raycasting calculation.
 For example you can change the number of photons or AmbientOcclusion rays to use.
 There are also optimization parameters you can tweak to speed up the calculation and
 every parameter responsible for speeding up the process
 are marked with an Astersisk `*` in front of their name.
 
-#### ARay Sample Work:
+- #### ARay SampleWork:
 Since everthing get stored on photons, SOPGI ARay create a point cloud
 with all the necessary attributes and everything get transferred to the Geometry
 using point clouds mechanism. This tab let you control how those values get
 transferred like the point cloud Radius, precision and Gaussian Blur filter to fine tune the final soultion.
 This can heavily impact the final quality.
 
-#### ARay Compositing:
+- #### ARay Compositing:
 This tab let you tweak the way every single render data get composited together.
 Since this happen after the raycasting, depending on your geometry tessellation,
 it can be as fast as realtime.
