@@ -10,33 +10,33 @@ Tested on SideFX Houdini 16.x.x
 ![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_intro.jpg)
 
 # DISCLAIMER
- SOPGI is a personal side project to teach me
+- SOPGI is a personal side project to teach me
  how to do mostly global illumination with photons
  and many other things I learned on the way.
  It try to be correct enough to make things look good.
 
- It also doesn't want to be a renderer.
+- It also doesn't want to be a renderer.
  It is mainly a solution to store lighting, shading and GI
  data into the geometry to use later for things
  like any other attribute.
  
- For animation, you will need a toons of photons
+- For animation, you will need a toons of photons
  to remove the noise/flicker in the GI solution.
  It is just an almost brute force solution after all.
  
- It's been architected to give you the best result as quick as
+- It's been architected to give you the best result as quick as
  I could possibly make it so it is to be considered
  a very Novel approach in many areas.
  
- Everything in here is more for educational purpose
+- Everything in here is more for educational purpose
  so do not expect a SolidAngle Arnold render quality 
  and performance out of this.
  
- Some of the functionality have been implemented in a
+- Some of the functionality have been implemented in a
  simple fashion.
  Please update this repository if you add or improve anything.
  
- Some part have been coded earlier and some other later in time
+- Some part have been coded earlier and some other later in time
  so some may be a bit incorrect from a pure mathematical point of view
  then some other as I was learning on the go.
 ______________________________________________________
