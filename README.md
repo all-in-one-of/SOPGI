@@ -20,6 +20,12 @@ Tested on SideFX Houdini 16.x.x
  data into the geometry to use later for things
  like any other attribute.
  
+- It require some tweaking there and there,
+ but if you get the hand of it and you are willing to work
+ your way up from lower to higher settings it can produce
+ some great images/solution and with all the render data stored per point
+ you will be able to do some nifty tricks down the line in Houdini.
+ 
 - For animation, you will need a toons of photons
  to remove the noise/flicker in the GI solution.
  It is just an almost brute force solution after all.
