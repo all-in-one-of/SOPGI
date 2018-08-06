@@ -113,6 +113,12 @@ ______________________________________________________
 This node will prepare a geometry to be plugged and processed by the SOPGI ARay node.
 It will attach all the shading attributes so in some way this node is your Geometry Shader.
 ![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_brdf_types.jpg)
+`SOPGI Aray node set to "use BRDF" only.`
+
+- and some more advanced example using all the features:
+![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_examples.jpg)
+`SOPGI examples/hip files inculded in this package.`
+
 For Reflection or Refractions, you can only have full mirrors or full transparent shader or a mix of both.
 ______________________________________________________
 It does include for DIFFUSE:
@@ -154,7 +160,6 @@ It include light bounces so you can specify how many light bounces you want to v
 Since Recursions has been implemented later, this node does not take into account
 transparent/IOR geometry.
 ![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_RAYviz_new.jpg)
-
 
 # Some more example images.
 `In progress...`
