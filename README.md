@@ -151,6 +151,4 @@ transparent/IOR geometry.
 
 
 # Some more example images.
-`Mostly screengrabs from the Showcase Video. `
-`Very high poly count geometry processed with SOPGI at high settings. Viewport is set to Hidden Wireframe`
-![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_gallery.jpg)
+`In progress...`
