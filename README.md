@@ -20,6 +20,12 @@ Tested on SideFX Houdini 16.x.x
  data into the geometry to use later for things
  like any other attribute.
  
+- You will want to use it on simple scenarios like an object
+ and some surrounding to bounce light around.
+ Not for large open environment or complex interior scenes.
+ It is after all an utility node to generate data to use later
+ along the pipe.
+ 
 - It require some tweaking there and there,
  but if you get the hand of it and you are willing to work
  your way up from lower to higher settings it can produce
