@@ -115,7 +115,7 @@ It will attach all the shading attributes so in some way this node is your Geome
 ![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_brdf_types.jpg)
 `SOPGI Aray node set to "use BRDF" only.`
 
-- and some more advanced example using all the features:
+and some more advanced example using all the features:
 ![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_examples.jpg)
 `SOPGI examples/hip files inculded in this package.`
 
