@@ -23,8 +23,8 @@ Tested on SideFX Houdini 16.x.x
 - You will want to use it on simple scenarios like an object
  and some surrounding to bounce light around.
  Not for large open environment or complex interior scenes.
- It is after all an utility node to generate data to use later
- along the pipe.
+ It is after all an utility set of nodes to generate data
+ to use later along the pipe.
  
 - It require some tweaking there and there,
  but if you get the hand of it and you are willing to work
