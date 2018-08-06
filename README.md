@@ -123,7 +123,7 @@ It will attach all the shading attributes so in some way this node is your Geome
 
 and some more advanced example using all the features:
 ![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_examples.jpg)
-`SOPGI examples/hip files inculded in this package.`
+`SOPGI examples/hip files included in this package.`
 
 For Reflection or Refractions, you can only have full mirrors or full transparent shader or a mix of both.
 ______________________________________________________
