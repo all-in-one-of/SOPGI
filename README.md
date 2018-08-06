@@ -51,11 +51,11 @@ will be stored on a per points attributes
 for later use as you would with any other attributes.
 
 SOPGI Node's list:
-# SOPGI ARay
-# SOPGI BRDF
-# SOPGI CornellBox
-# SOPGI Light
-# SOPGI RAYviz
+- # SOPGI ARay
+- # SOPGI BRDF
+- # SOPGI CornellBox
+- # SOPGI Light
+- # SOPGI RAYviz
 ______________________________________________________
 
 # SOPGI Aray
@@ -151,4 +151,6 @@ transparent/IOR geometry.
 
 
 # Some more example images.
-![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_end_gallery.jpg)
+`Mostly screengrabs from the Showcase Video. `
+`Very high poly count geometry processed with SOPGI at high settings. Viewport is set to Hidden Wireframe`
+![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_gallery.jpg)
