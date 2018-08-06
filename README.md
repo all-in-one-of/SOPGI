@@ -7,7 +7,7 @@ Tested on SideFX Houdini 16.x.x
 
 
 ### SOPGI work on the geometry points, so to viz the result properly set your viewport to HIDDEN LINE INVISIBLE mode ( WIREFRAME ) 
-![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_intro.jpg)
+![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_intro_new.jpg)
 
 # DISCLAIMER
 - SOPGI is a personal side project to teach me
