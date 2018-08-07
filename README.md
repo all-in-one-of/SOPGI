@@ -114,6 +114,11 @@ This tab let you tweak the way every single render data get composited together.
 Since this happen after the raycasting, depending on your geometry tessellation,
 it can be as fast as realtime.
 
+`In this implementation the "Compositor" node is very simple but eventually
+it will get expanded to do some nifty tricks with the available Render Data.`
+![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_compositing_new.jpg)
+`SOPGI calculate RECURSIONS after the "Compositor" node complete.`
+
 ______________________________________________________
 
 ![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_useBRDF_new.jpg)
