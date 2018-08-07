@@ -63,11 +63,11 @@ will be stored on a per points attributes
 for later use as you would with any other attributes.
 
 SOPGI Node's list:
-- # SOPGI ARay
-- # SOPGI BRDF
-- # SOPGI CornellBox
-- # SOPGI Light
-- # SOPGI RAYviz
+- # SOPGI_ARay
+- # SOPGI_BRDF
+- # SOPGI_CornellBox
+- # SOPGI_Light
+- # SOPGI_RAYviz
 ______________________________________________________
 
 # SOPGI Aray
