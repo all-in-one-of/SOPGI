@@ -91,7 +91,7 @@ There are also optimization parameters you can tweak to speed up the calculation
 every parameter responsible for speeding up the process
 are marked with an asterisk character `*` in front of their name.
 
-- #### ARay SampleWork:
+- #### ARay SamplesWork:
 Since everthing get stored on photons, SOPGI ARay create a point cloud
 with all the necessary attributes and everything get transferred to the Geometry
 using point clouds mechanism. This tab let you control how those values get
