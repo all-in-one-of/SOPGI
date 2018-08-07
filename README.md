@@ -134,9 +134,13 @@ ______________________________________________________
 
 
 # SOPGI_BRDF
-![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_brdf_param.jpg)
-This node will prepare a geometry to be plugged and processed by the SOPGI ARay node.
+This node will prepare a geometry to be plugged and be processed by the SOPGI ARay node.
 It will attach all the shading attributes so in some way this node is your Material Shader.
+From here you will control the apparence and the Recursive side of it.
+
+![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_brdf_param.jpg)
+`SOPGI_BRDF node parameters`
+
 ![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_brdf_types.jpg)
 `SOPGI Aray node set to "use BRDF" only.`
 
