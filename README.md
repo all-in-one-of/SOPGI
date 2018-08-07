@@ -89,7 +89,7 @@ Will give you the ability to change the number of samples to use for the Raycast
 For example you can change the number of photons or AmbientOcclusion rays to use.
 There are also optimization parameters you can tweak to speed up the calculation and
 every parameter responsible for speeding up the process
-are marked with an Astersisk `*` in front of their name.
+are marked with an asterisk character `*` in front of their name.
 
 - #### ARay SampleWork:
 Since everthing get stored on photons, SOPGI ARay create a point cloud
