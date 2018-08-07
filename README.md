@@ -165,7 +165,7 @@ them in the computation.
 ______________________________________________________
 
 # SOPGI CornellBox
-![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_cornellBox.jpg)
+![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_cornellBox_small.jpg)
 
 This node is a simple utility node that will let you quickly generate
 a CornellBox geometry and tweak its colors.
