@@ -92,6 +92,8 @@ every parameter responsible for speeding up the process
 are marked with an asterisk character `*` in front of their name.
 
 - #### ARay SamplesWork:
+`SOPGI RECURSIONS are calculated on a per point basis and so not affected by "ARay SamplesWork".`
+
 Since everthing get stored on photons, SOPGI ARay create a point cloud
 with all the necessary attributes and everything get transferred to the Geometry
 using point clouds mechanism. This tab let you control how those values get
@@ -99,7 +101,6 @@ transferred like the point cloud Radius, precision and Gaussian Blur filter to f
 the final solution and light irradiance.
 #### This can heavily impact the final quality.
 
-`SOPGI RECURSIONS are calculated on a per point basis and so not affected by "ARay SamplesWork".`
 ![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_samples.jpg)
 
 
