@@ -70,7 +70,7 @@ SOPGI Node's list:
 - # SOPGI_RAYviz
 ______________________________________________________
 
-# SOPGI Aray
+# SOPGI_Aray
 This node is the core renderer.
 
 
@@ -132,7 +132,7 @@ More info about this node soon.
 ______________________________________________________
 
 
-# SOPGI BRDF
+# SOPGI_BRDF
 This node will prepare a geometry to be plugged and processed by the SOPGI ARay node.
 It will attach all the shading attributes so in some way this node is your Geometry Shader.
 ![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_brdf_types.jpg)
@@ -169,7 +169,7 @@ for you to test out SOPGI render feautures.
 
 ______________________________________________________
 
-# SOPGI Light
+# SOPGI_Light
 This node will let you convert any Geo into a SOPGI Light to be plugged into the SOPGI ARay node.
 In this implementation LIghts are very simple, they have a color, and intensity, a distance radius and samples count.
 ![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_light.jpg)
@@ -177,7 +177,7 @@ In this implementation LIghts are very simple, they have a color, and intensity,
 
 ______________________________________________________
 
-# SOPGI RAYviz
+# SOPGI_RAYviz
 This node is an utility node to let you visualize Light Rays along their traced path.
 It include light bounces so you can specify how many light bounces you want to viz.
 Since Recursions has been implemented later, this node does not take into account
