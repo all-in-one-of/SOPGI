@@ -97,6 +97,9 @@ with all the necessary attributes and everything get transferred to the Geometry
 using point clouds mechanism. This tab let you control how those values get
 transferred like the point cloud Radius, precision and Gaussian Blur filter to fine tune the final soultion.
 This can heavily impact the final quality.
+![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_samples.jpg)
+
+
 
 - #### ARay Compositing:
 This tab let you tweak the way every single render data get composited together.
