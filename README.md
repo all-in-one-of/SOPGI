@@ -95,10 +95,11 @@ are marked with an asterisk character `*` in front of their name.
 Since everthing get stored on photons, SOPGI ARay create a point cloud
 with all the necessary attributes and everything get transferred to the Geometry
 using point clouds mechanism. This tab let you control how those values get
-transferred like the point cloud Radius, precision and Gaussian Blur filter to fine tune the final soultion.
+transferred like the point cloud Radius, precision and Gaussian Blur filter to fine tune
+the final solution and light irradiance.
 This can heavily impact the final quality.
-SOPGI calculate RECURSIONS on a per point basis and so those
-are not affected by the point clouds sampling mechanism.
+
+SOPGI calculate RECURSIONS on a per point basis and so those are not affected by the point clouds sampling mechanism.
 ![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_samples.jpg)
 
 
