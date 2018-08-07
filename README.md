@@ -77,7 +77,7 @@ It will also comp out the final result and store it on the `Cd` channel for you 
 The second optional output, will output only the photonmap points.
 
 ![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_aray_modularity.jpg)
-`Its been coded per components in a modular way.`
+`Inside of the SOPGI_ARay node. Its been coded per components in a modular way.`
 
 ![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_aov_attrib.jpg)
 `Final SOPGI result followed from Left to Right by: BRDF, AO, GI and Shadows samples.`
