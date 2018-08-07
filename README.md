@@ -124,7 +124,7 @@ it will get expanded to do some nifty tricks with the available Render Data.`
 
 ______________________________________________________
 
-![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_useBRDF_new.jpg)
+![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_useBRDF.jpg)
 The " `USE BRDF` " option on the main SOPGI ARay's node option tab will disable all the heavy calculation
 and only output Diffuse and Specular to work with the Recursive Reflections and Refractions.
 This way you can preview Recursions very quickly and tweak Specular and Diffuse 
