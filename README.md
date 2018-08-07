@@ -117,7 +117,7 @@ it can be as fast as realtime.
 
 `In this implementation the "Compositor" node is very simple but eventually
 it will get expanded to do some nifty tricks with the available Render Data.`
-![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_compositing_new.jpg)
+![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_compositing.jpg)
 `SOPGI calculate RECURSIONS after the "Compositor" node complete.`
 
 ______________________________________________________
