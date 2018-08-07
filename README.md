@@ -72,7 +72,8 @@ ______________________________________________________
 
 # SOPGI_Aray
 This node is the core renderer.
-
+![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_aray_modularity.jpg)
+`Its been coded per components in a modular way.`
 
 It will generate all the render data and output the final attributes value. 
 It will also comp out the final result and store it on the `Cd` channel for you ro review.
