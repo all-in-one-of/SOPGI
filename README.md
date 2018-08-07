@@ -104,9 +104,9 @@ the final solution and light irradiance.
 ![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_samples.jpg)
 
 `To keep the tool performace as high as I could, I opted not to use "Shadow Rays" 
-but instead inplement "Shadow Maps" as they are quicker and those are generated
+but instead implement "Shadow Maps" as they are quicker and those are generated
 from point clouds
-and so afected by ARay SamplesWork as well.`
+and so affected by ARay SamplesWork as well.`
 
 
 
