@@ -72,18 +72,19 @@ ______________________________________________________
 
 # SOPGI_Aray
 This node is the core renderer.
-![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_aray_modularity.jpg)
-`Its been coded per components in a modular way.`
-
 It will generate all the render data and output the final attributes value. 
 It will also comp out the final result and store it on the `Cd` channel for you ro review.
 The second optional output, will output only the photonmap points.
+
+![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_aray_modularity.jpg)
+`Its been coded per components in a modular way.`
+
 ![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_aov_attrib.jpg)
 `Final SOPGI result followed from Left to Right by: BRDF, AO, GI and Shadows samples.`
 ______________________________________________________
 
 ![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_aray_node_menus.jpg)
-It is subdivided in 3 main Tabs:
+`SOPGI_ARay node parametrs It is subdivided in 3 main Tabs`
 
 - #### ARay Core:
 Will give you the ability to change the number of samples to use for the Raycasting calculation.
@@ -180,6 +181,7 @@ This node will let you convert any Geo into a SOPGI Light to be plugged into the
 In this implementation LIghts are very simple, they have a color, and intensity, a distance radius and samples count.
 
 ![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_light_param.jpg)
+
 `SOPGI_Light node parameters`
 
 ![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_light.jpg)
