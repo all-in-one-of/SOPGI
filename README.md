@@ -105,7 +105,8 @@ the final solution and light irradiance.
 
 `To keep the tool performace as high as I could, I opted not to use "Shadow Rays" 
 but instead inplement "Shadow Maps" as they are quicker and those are generated
-from point clouds as well and so afected by ARay SamplesWork as well.`
+from point clouds
+and so afected by ARay SamplesWork as well.`
 
 
 
