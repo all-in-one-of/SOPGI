@@ -197,4 +197,5 @@ transparent/IOR geometry.
 ![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_RAYviz_new.jpg)
 
 # Some more example images.
+![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_photons.jpg)
 `In progress...`
