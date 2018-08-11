@@ -198,4 +198,7 @@ transparent/IOR geometry.
 
 # Some more example images.
 ![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_photons.jpg)
-`In progress...`
+`Caustics come for free with a Path Tracing method but since SOPGI recursions have been coded later,
+the photon map generation algorithm does not take into account refractive objects yet and so we
+only get caustic photns by reflections only.`
+
