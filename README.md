@@ -200,5 +200,5 @@ transparent/IOR geometry.
 ![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_into_new.jpg)
 `Caustics: since SOPGI recursions have been coded later,
 the photon map generation algorithm does not take into account refractive objects yet and so we
-only get caustic photons by reflections only.`
+get caustic photons by reflections only.`
 
