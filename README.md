@@ -2,6 +2,9 @@
 A SideFX Houdini `VEX raytracer` with photon mapping global illumination and full recursive reflections and refractions.
 Tested on SideFX Houdini 16.x.x
 
+![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SIDEFX_cppCon_SOPGI.jpg)
+`Mark Elendt from SideFX showing of SOPGI at cppCON Conference 2018, epic! Thank you SideFX for this.`
+
 ![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_cover.jpg)
 `Very high poly count geometry processed with SOPGI at high settings. Viewport is set to Hidden Wireframe`
 
