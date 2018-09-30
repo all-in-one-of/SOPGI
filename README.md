@@ -1,5 +1,5 @@
 # SOPGI ( Manual and general Infos)
-A SideFX Houdini `VEX raytracer` with photon mapping global illumination and full recursive reflections and refractions.
+A SideFX Houdini small `VEX raytracer` with photon mapping global illumination and full recursive reflections and refractions.
 Tested on SideFX Houdini 16.x.x
 
 ![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SIDEFX_cppCon_SOPGI.jpg)
