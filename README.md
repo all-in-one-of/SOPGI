@@ -3,7 +3,7 @@ A SideFX Houdini small `VEX raytracer` with photon mapping global illumination a
 Tested on SideFX Houdini 16.x.x
 
 ![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SIDEFX_cppCon_SOPGI.jpg)
-`Mark Elendt from SideFX showing of SOPGI at cppCON Conference 2018! What an honor. Thank you SideFX for this.`
+`Mark Elendt from SideFX showing of SOPGI at cppCON Conference 2018! Epic!!! Thank you SideFX for this.`
 `Watch the full talk here:` https://www.youtube.com/watch?v=2YXwg0n9e7E&pbjreload=10
 
 ![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_cover.jpg)
